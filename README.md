@@ -1,5 +1,8 @@
-# Educative-Project
-I'm attaching my notebooks that I create here to be used by public as general reference. I'd appreciate to at least mention where you get the notebooks from so that others can benefit from them too!
+# Educative-Project-NetCDF4
+I'm attaching my notebook that I create here to be used by public as general reference.
+This notebook is for reference of managing NetCDF4 files using Python.
+
+I'd appreciate to at least mention where you get the notebooks from so that others can benefit from them too!
 
 That's all!
 
